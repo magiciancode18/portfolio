@@ -1,0 +1,238 @@
+* {
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+.dashboard {
+    height: 150px;
+    background-color:#191919;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color:white;
+}
+.bar p{
+    font-size:15px;
+    margin-left: 55px;
+}
+.mid-line{
+    height: 30px;
+    background-color:#620f1e ;
+}
+.line{
+    font-size:22px;
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+    height: 80px;
+}
+.line a{
+    margin-left: 200px;
+    text-decoration: none;
+    color:gray;
+    font-size: 15px;
+}
+.line a:hover{
+    color: darkgrey;
+}
+.scale{
+    background-color:beige; 
+}
+.content h1{
+    margin-left:15px;
+    align-items: center;
+}
+.content p{
+    margin-left: 15px;
+}
+.content a{
+     margin-left: 15px;
+     text-decoration: none;
+     color:gray;
+}
+.content a:hover{
+    color: lightgray;
+}
+
+                                   /**projets**/
+
+.file{
+    background-color: #620f1e;
+    height: 60px;
+}
+.pro{
+    color:darkgrey;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.pro h2{
+    margin-top: 20px;
+}
+.content-box{
+    background-color: beige;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+.box1{
+    margin-top:20px;
+    margin-left:20px;
+    height: 400px;
+    width: 380px;
+    border: 2px solid transparent;
+}
+.box1 button{
+    color:lightgray;
+    margin: 15px 15px 15px 15px;
+    background-color:gray;
+    border-radius: 10px;
+}
+
+.box2{
+    margin-top:20px;
+    margin-left:20px;
+    height: 400px;
+    width: 380px;
+    border:  2px solid transparent;
+    
+}
+.box2 button{
+    color:lightgray;
+    margin: 15px 15px 15px 15px;
+    background-color:gray;
+    border-radius: 10px;
+}
+.box3{
+    margin-top:20px;
+    margin-left:20px;
+    height: 400px;
+    width: 200px;
+    border: 2px solid transparent;
+    
+}
+.box3 button{
+    color:lightgray;
+    margin: 15px 15px 15px 15px;
+    background-color:gray;
+    border-radius: 10px;
+}
+.box4{
+    margin-top:20px;
+    margin-left:20px;
+    height: 400px;
+    width: 380px;
+    border:  2px solid transparent;
+    
+}
+.box4 button{
+    color:lightgray;
+    margin: 15px 15px 15px 15px;
+    background-color:gray;
+    border-radius: 10px;
+}
+.box5{
+    margin-top:20px;
+    margin-left:20px;
+    height: 400px;
+    width: 350px;
+    border:  2px solid transparent;
+}
+.box5 button{
+    color:lightgray;
+    margin: 15px 15px 15px 15px;
+    background-color:gray;
+    border-radius: 10px;
+}
+.box-image{
+     background-size: cover;
+     height: 250px;
+}
+.items{
+    height: 100px;
+    background-color: #191919;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.icon{
+    font-size: large;
+    margin-top: 15px;
+    color: cadetblue;
+    display:flex;
+    align-items: center;
+    justify-content:space-evenly ;
+}
+.icon :hover{
+    color:rgb(20, 92, 95);
+}
+
+                       /**index**/
+
+
+.picture{
+    height: 300px;
+    width: 300px;
+    border: 2px solid transparent;
+    margin-top: 50px;
+    margin-left: 600px;
+    
+}
+.my-pic{
+    background-size: cover;
+    height: 300px;
+    border-radius: 10px;
+}
+.icon-box{
+    height: 50px;
+    width: 100px;
+}
+.level{
+    margin-top: 50px;
+}
+.level button{
+    background-color:lightgray;
+    font-size: large;
+     border-radius:10px ;
+}
+.level button:hover{
+    background-color: gray;
+}
+.level input{
+    font-size: large;
+    border-radius:10px ;
+}
+.level{
+    margin-top:0px;
+}
+.loki{
+   background-color: beige; 
+   height: 500px;
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+}
+.thor{
+    background-color: beige;
+    height: 500px;
+}
+.iron{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.thor h3{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.thor a{
+    margin-top: 20px;
+    display: block;
+    align-items: center;
+    margin-left:650px ;
+}
+
+
+
